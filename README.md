@@ -93,15 +93,15 @@ I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from India, d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khelendrameena&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies-->
 <!--div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khelendrameena&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div-->
 
 ## 📈 Activity Graph
-<!--div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khelendrameena&theme=tokyo-night" alt="Activity Graph"/>
-</div-->
+</div>
 
 ## 🎯 Current Goals
 
