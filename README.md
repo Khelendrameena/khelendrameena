@@ -111,7 +111,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from India, d
 - 💡 **Exploring** emerging technologies in AI/ML
 - 🌟 **Sharing** knowledge through blogs and tutorials
 
-## 💡 Random Developer Quote
+## 💡 Developer Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
