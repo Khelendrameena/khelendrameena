@@ -94,9 +94,9 @@ I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from India, d
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<!--div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khelendrameena&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
+</div-->
 
 ## 📈 Activity Graph
 <div align="center">
