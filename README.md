@@ -99,9 +99,9 @@ I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from India, d
 </div-->
 
 ## 📈 Activity Graph
-<div align="center">
+<!--div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khelendrameena&theme=tokyo-night" alt="Activity Graph"/>
-</div>
+</div-->
 
 ## 🎯 Current Goals
 
